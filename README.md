@@ -1,5 +1,5 @@
 # Insurance-management-System
-This is a mini project. It is used to maintain insurance details of the clients
+This is a mini project. It is used to maintain insurance details of the clients.
 The insurance management project deals with adding new insurance schemes and managing the clients of the insurance company. 
 The Insurance Management Systems is a complete management system designed to handle all aspects of running our insurance agency from tracking insurance number  to show  all the details like client details, insurance details, payment details.
 The project has complete access for the operations that are to create, update and delete the database entries. 
